@@ -8,7 +8,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/16/9c/11/169c11293f5c08a325ee1bbc8a0d4cb8.gif" width="400" height="400" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/16/9c/11/169c11293f5c08a325ee1bbc8a0d4cb8.gif" width="500" height="350" />
 
 **Back-end**
 
