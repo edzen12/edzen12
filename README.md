@@ -8,7 +8,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/45586276/132133352-5e60adcf-7c24-4ee1-8b39-41807e8eab34.png)" width="400" height="400" />
+<img align="right" alt="GIF" src="https://lisestudio.ru/static/landing/img/web_developing.gif" width="400" height="400" />
 
 **Back-end**
 
