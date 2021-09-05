@@ -8,7 +8,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://lisestudio.ru/static/landing/img/web_developing.gif" width="400" height="400" />
+<img align="right" alt="GIF" src="https://www.google.ru/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Folzhasergenbai%2Fgifs%2F&psig=AOvVaw02AVnLdyPrGQJ5FzVAF26k&ust=1630943658521000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCvy9-Y6PICFQAAAAAdAAAAABBE" width="400" height="400" />
 
 **Back-end**
 
