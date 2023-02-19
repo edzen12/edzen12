@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Edzen</h1>
 <h3 align="center">A passionate backend developer from Kyrgyzstan</h3> 
-- 🔭 I’m currently working on [Fergana Valley](http://fergana-academy.com/) 
-- 👨‍💻 All of my projects are available at [https://github.com/edzen12?tab=repositories](https://github.com/edzen12?tab=repositories) 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wPW4j1xA6wCbiCBlQlDFtLIxxu1q7fcI/view?usp=share_link](https://drive.google.com/file/d/1wPW4j1xA6wCbiCBlQlDFtLIxxu1q7fcI/view?usp=share_link) 
+<p>- 🔭 I’m currently working on [Fergana Valley](http://fergana-academy.com/) </p>
+<p>- 👨‍💻 All of my projects are available at [https://github.com/edzen12?tab=repositories](https://github.com/edzen12?tab=repositories) </p>
+<p>- 📄 Know about my experiences [https://drive.google.com/file/d/1wPW4j1xA6wCbiCBlQlDFtLIxxu1q7fcI/view?usp=share_link](https://drive.google.com/file/d/1wPW4j1xA6wCbiCBlQlDFtLIxxu1q7fcI/view?usp=share_link) </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
