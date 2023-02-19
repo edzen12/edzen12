@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Edzen</h1>
-<h3 align="center">A passionate backend developer from Kyrgyzstan</h3> - 🔭 I’m currently working on [Fergana Valley](http://fergana-academy.com/) - 👨‍💻 All of my projects are available at [https://github.com/edzen12?tab=repositories](https://github.com/edzen12?tab=repositories) - 📄 Know about my experiences [https://drive.google.com/file/d/1wPW4j1xA6wCbiCBlQlDFtLIxxu1q7fcI/view?usp=share_link](https://drive.google.com/file/d/1wPW4j1xA6wCbiCBlQlDFtLIxxu1q7fcI/view?usp=share_link) <h3 align="left">Connect with me:</h3>
+<h3 align="center">A passionate backend developer from Kyrgyzstan</h3> 
+- 🔭 I’m currently working on [Fergana Valley](http://fergana-academy.com/) 
+- 👨‍💻 All of my projects are available at [https://github.com/edzen12?tab=repositories](https://github.com/edzen12?tab=repositories) 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wPW4j1xA6wCbiCBlQlDFtLIxxu1q7fcI/view?usp=share_link](https://drive.google.com/file/d/1wPW4j1xA6wCbiCBlQlDFtLIxxu1q7fcI/view?usp=share_link) 
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/edzen-oichiev-255309265/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edzen-oichiev-255309265/" height="30" width="40" />
