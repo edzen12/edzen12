@@ -9,8 +9,8 @@
     <a href="https://instagram.com/edzn_bey" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/edzn_bey" height="30" width="40" />
     </a>
-    <a href="https://t.me/edzn21">
-        <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+    <a href="https://t.me/edzen24">
+        <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png">
     </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
