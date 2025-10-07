@@ -46,9 +46,4 @@ Backend-разработчик с **6-летним опытом коммерче
 📍 Открыт к сотрудничеству над долгосрочными проектами.  
 💬 Telegram: [@edzn_bey](https://t.me/edzenDev)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edzen24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edzen24&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+--- 
