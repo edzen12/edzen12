@@ -16,7 +16,7 @@
 <td>
 
 <b>💡 Создаю надёжные и масштабируемые backend-системы.</b><br>
-💻 6 лет коммерческой разработки, из них 3 года — специализация на <b>Python/Django</b>.<br>
+💻 7 лет коммерческой разработки, из них 4 года — специализация на <b>Python/Django</b>.<br>
 🚀 Опыт: корпоративные, e-commerce и образовательные платформы (LMS, CRM).<br>
 🧠 Углубляюсь в DevOps-практики и архитектуру микросервисов.<br>
 📫 Связь: <a href="https://t.me/edzenDev">Telegram</a>
@@ -29,14 +29,19 @@
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-Django_REST_Framework-A30000?logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+**Languages & Frameworks:** 
+
+**Backend:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django\&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-Django_REST_Framework-A30000?logo=django\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs\&logoColor=white)
+
+**Frontend:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular\&logoColor=white)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -63,7 +68,3 @@
 📍 Открыт к сотрудничеству над долгосрочными проектами  
 💬 Telegram: [@edzenDev](https://t.me/edzenDev)
 🌐 Linkedin: [www.linkedin.com/in/edzen-oichiev-255309265](#)
-
----
-
-> “Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson
